@@ -70,7 +70,7 @@ def arima_model(data, target_variable, order):
 
 # Call the ARIMA model on the yearly medals data
 arima_model(yearly_medals, 'Total_Medals', order=(5, 1, 0))
-```py
+```
 
 ### OUTPUT:
 
