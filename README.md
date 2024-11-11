@@ -4,7 +4,7 @@
 ### AIM:
 To Create a project on Time series analysis on Summer olympic medals forecasting using ARIMA model in  Python and compare with other models.
 ### ALGORITHM:
-1. Explore the dataset of weather 
+1. Explore the dataset of Summer olympic medals
 2. Check for stationarity of time series time series plot
    ACF plot and PACF plot
    ADF test
